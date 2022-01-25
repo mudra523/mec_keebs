@@ -1,0 +1,22 @@
+export const CarouselData = [
+  {
+    image:
+      "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/05/perfect-keyboard.jpg",
+  },
+  {
+    image:
+      "https://preview.redd.it/0se37hk5wul21.jpg?width=6000&format=pjpg&auto=webp&s=a360d12624d92f8d97d7729aa50ce2fd20d1847b",
+  },
+  {
+    image:
+      "https://preview.redd.it/ouxynwm5wul21.jpg?width=6000&format=pjpg&auto=webp&s=62f8899c082028ef9909e29589a3fad94ca245ca",
+  },
+  {
+    image:
+      "https://preview.redd.it/b4gblok5wul21.jpg?width=6000&format=pjpg&auto=webp&s=31ec50cc5d19d5fd16308efa51785b6b20ebc27c",
+  },
+  {
+    image:
+      "https://spotoncases-prca4f1pmqv.netdna-ssl.com/wp-content/uploads/2019/05/Ducky-Shine7-Blackout-4-min-scaled.jpg",
+  },
+];
